@@ -1,4 +1,4 @@
 # First-Demo
 This is my first Git Repository.
 <br>
-Author-Hira Mushtaq
+Author-Hira Mushtaq Dogar
